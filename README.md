@@ -13,4 +13,4 @@ I'm Oleksandr Meniakin . I'm from Munich. I have 5 years experience in PLC progr
 - Ask me about anything:mailbox:
 - Fun-Fact: I have a degree in engineering:zap:
 
-<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="welcome gif" width="300" height="300">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="welcome gif" width="300" height="300">
