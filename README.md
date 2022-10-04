@@ -6,7 +6,7 @@
 
 I'm Oleksandr Meniakin . I'm from Munich. I have 5 years experience in PLC programming.
 
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="welcome gif" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="right" alt="welcome gif" width="200" height="200">
 
 - Currently doing my web developing course:computer:
 - Love to learn about new things:high_brightness:
@@ -14,3 +14,5 @@ I'm Oleksandr Meniakin . I'm from Munich. I have 5 years experience in PLC progr
 - Fun-Fact: I have a degree in engineering:zap:
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="welcome gif">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sashameniakin.sashameniakin)
