@@ -16,4 +16,4 @@ I'm Oleksandr Meniakin . I'm from Munich. I have 5 years experience in PLC progr
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="welcome gif">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sashameniakin.sashameniakin)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sashameniakin.visitors)
