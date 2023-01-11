@@ -9,7 +9,7 @@ I'm Oleksandr Meniakin . I'm from Munich. I have 5 years experience in PLC progr
 
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="right" alt="welcome gif" width="200" height="200">
 
-- Currently doing my web developing course:computer:
+- Finished my web developing NeueFische course:computer:
 - Love to learn about new things:high_brightness:
 - Ask me about anything:mailbox:
 - Fun-Fact: I have a degree in engineering:zap:
