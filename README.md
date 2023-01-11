@@ -7,6 +7,7 @@
 
 I'm Oleksandr Meniakin . I'm from Munich. I have 5 years experience in PLC programming.
 
+- Junior Web Developer
 - Finished my web developing NeueFische course:computer:
 - Love to learn about new things:high_brightness:
 - Ask me about anything:mailbox:
