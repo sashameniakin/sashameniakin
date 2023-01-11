@@ -5,7 +5,9 @@
 
 ### Hi to everyone!:blush:
 
-I'm Oleksandr Meniakin . I'm from Munich. I have 5 years experience in PLC programming.<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="right" alt="welcome gif" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" align="right" alt="welcome gif" width="200" height="200">
+
+I'm Oleksandr Meniakin . I'm from Munich. I have 5 years experience in PLC programming.
 
 - Finished my web developing NeueFische course:computer:
 - Love to learn about new things:high_brightness:
