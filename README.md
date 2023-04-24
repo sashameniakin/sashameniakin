@@ -9,9 +9,6 @@ I'm Oleksandr Meniakin . I'm from Munich. I have 5 years experience in PLC progr
 
 - Junior Web Developer
 - Finished my web developing NeueFische course:computer:
-- Love to learn about new things:high_brightness:
-- Ask me about anything:mailbox:
-- Fun-Fact: I have a master degree in engineering:zap:
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="welcome gif">
 
